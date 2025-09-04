@@ -1,8 +1,5 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
+<div align="center">
+  <img src="assets/banner.png" alt="Mariam Essam Banner" width="100%">
 </div>
 
 <h2 align="center"> Hi there 👋, I'm Mariam Essam </h2>
@@ -19,20 +16,22 @@
 
 ---
 
-### 🚀 Tools & Technologies I use  
+### 🚀 Programming Languages & Tools  
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C](https://img.shields.io/badge/C%20(Embedded)-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### 🔧 Other Tools & Platforms  
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-orange?style=flat)
 ![IoT](https://img.shields.io/badge/Internet%20of%20Things-0A66C2?style=flat)
 ![Robotics](https://img.shields.io/badge/Robotics-grey?style=flat&logo=android&logoColor=green)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -59,6 +58,13 @@
 
 </a>
 </div>
+
+---
+
+### 📬 Contact Me  
+
+- 📧 **Email:** marimessam622004@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/mariam~eesam](https://linkedin.com/in/mariam~eesam)  
 
 ---
 
