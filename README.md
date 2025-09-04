@@ -1,14 +1,17 @@
-<div align="center" width="50%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd5NGRvOWJwcXI4Nm44ejd0MjlwbjA1N2IyZnE4ZmRhcTl3OW9udSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="Waving Robot" width="555">
 </div>
 
 ---
 
 <h2 align="center"> Hi there 👋, I'm Mariam Essam </h2>
 <h4 align="center">📍 Computer Science student at Alexandria University | ⚡ Embedded Systems | 🤖 Robotics | 🌐 Internet of Things </h4>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MariamEssam&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
